@@ -1,0 +1,68 @@
+html{
+  background-color: mediumslateblue;
+  margin: auto;
+}
+header{
+  height: 300px;
+  width: 1000px;
+  margin: auto;
+  background-color:  honeydew;
+  display: flex;
+  border: 1px solid tomato;
+}
+  img{
+    height: 200px;
+    width: auto;
+    border: 2px solid tomato;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 40px;
+    
+  }
+  #logo{
+    height: 300px;
+    width: 300px;
+    margin-right: 20px;
+  }
+  .dp {
+    height: 300;
+    width: 800px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 20px;
+  }
+  p{
+    font-size: 12px;
+  }
+  main{
+    height: 815px;
+    width: 1000px;
+    margin: auto;
+    background-color: honeydew;
+    justify-content: center;
+    align-items: normal;
+    display: flex;
+    border: 1px solid tomato;
+  }
+  #ds{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  footer{
+    height: 100px;
+    width: 1000px;
+    background-color: honeydew;
+    margin: auto;
+    border: 1px solid tomato;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  button{
+    background-color: mediumslateblue;
+    height: 30px;
+    width: 150px;
+    
+  }
